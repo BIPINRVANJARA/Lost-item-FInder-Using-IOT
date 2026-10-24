@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661240423917",
+    "project_id": "lostitemfinder-aab53",
+    "storage_bucket": "lostitemfinder-aab53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661240423917:android:6be3fe81afe0cfcf90f3e4",
+        "android_client_info": {
+          "package_name": "com.heeru.lostfinder.lost_finder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc21_CCt1aUho3rvET2au7e2clj0aOPbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
