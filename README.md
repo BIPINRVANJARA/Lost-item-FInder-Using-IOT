@@ -68,8 +68,21 @@ flowchart TD
 
 Watch the motion graphics presentation and working demonstration of the **Smart Item Lost Finder**:
 
-- 🔗 **Google Drive Stream:** [Watch on Google Drive](https://drive.google.com/file/d/12NyHzevbEZNSEKS-Uka6EUFhctJiaX1D/view?usp=drivesdk)
-- 📁 **Repository Video File:** [`docs/videos/project_explainer_video.mp4`](docs/videos/project_explainer_video.mp4)
+<p align="center">
+  <a href="https://github.com/BIPINRVANJARA/Lost-item-FInder-Using-IOT/blob/main/docs/videos/project_explainer_video.mp4">
+    <img src="docs/images/project_explainer_preview.gif" alt="Smart Item Lost Finder Explainer Preview" width="100%" style="max-width: 720px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BIPINRVANJARA/Lost-item-FInder-Using-IOT/blob/main/docs/videos/project_explainer_video.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Full%20HD%20Video-GitHub%20Player-10B981?style=for-the-badge&logo=github" alt="Watch on GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/12NyHzevbEZNSEKS-Uka6EUFhctJiaX1D/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/▶%20Stream%20on-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive" alt="Stream on Google Drive" />
+  </a>
+</p>
 
 ---
 

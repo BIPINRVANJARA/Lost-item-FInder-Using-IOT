@@ -24,6 +24,7 @@ The **HEERU Smart Item Lost Finder** bridges this gap by marrying an Android app
 - **Ultra-Simple UI/UX:** A minimalist, glowing single-button interface designed for instantaneous user operation without cognitive overhead.
 
 ### 1.3 Motion Graphics & Demonstration Video
+- **Animated Preview:** [`docs/images/project_explainer_preview.gif`](docs/images/project_explainer_preview.gif)
 - **Working Explainer Video:** [Google Drive Link](https://drive.google.com/file/d/12NyHzevbEZNSEKS-Uka6EUFhctJiaX1D/view?usp=drivesdk)
 - **Local Video Asset:** [`docs/videos/project_explainer_video.mp4`](docs/videos/project_explainer_video.mp4)
 
