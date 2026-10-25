@@ -23,6 +23,10 @@ The **HEERU Smart Item Lost Finder** bridges this gap by marrying an Android app
 - **Anti-Jamming Cadence:** Automatic double-beep cadence (`BEEP` $\rightarrow$ `PAUSE` $\rightarrow$ `BEEP` $\rightarrow$ `STANDBY`) that guarantees the buzzer will never beep continuously due to stuck pins or buffered commands.
 - **Ultra-Simple UI/UX:** A minimalist, glowing single-button interface designed for instantaneous user operation without cognitive overhead.
 
+### 1.3 Motion Graphics & Demonstration Video
+- **Working Explainer Video:** [Google Drive Link](https://drive.google.com/file/d/12NyHzevbEZNSEKS-Uka6EUFhctJiaX1D/view?usp=drivesdk)
+- **Local Video Asset:** [`docs/videos/project_explainer_video.mp4`](docs/videos/project_explainer_video.mp4)
+
 ---
 
 ## 2. System Architecture & High-Level Flow

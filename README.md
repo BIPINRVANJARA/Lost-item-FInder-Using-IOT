@@ -64,6 +64,15 @@ flowchart TD
 
 ---
 
+## 🎬 Project Explainer & Motion Graphics Video
+
+Watch the motion graphics presentation and working demonstration of the **Smart Item Lost Finder**:
+
+- 🔗 **Google Drive Stream:** [Watch on Google Drive](https://drive.google.com/file/d/12NyHzevbEZNSEKS-Uka6EUFhctJiaX1D/view?usp=drivesdk)
+- 📁 **Repository Video File:** [`docs/videos/project_explainer_video.mp4`](docs/videos/project_explainer_video.mp4)
+
+---
+
 ## 📸 Implementation & Hardware Prototype
 
 | 1. Mobile App Interface | 2. ESP32 Gateway & Direct-Wire Bridge | 3. 433 MHz Receiver Tag & Buzzer |
