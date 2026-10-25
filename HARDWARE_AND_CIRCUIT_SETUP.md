@@ -59,6 +59,19 @@ This guide provides the complete blueprint for your IoT Item Tracker using:
 
 ---
 
+## 📸 Real Hardware Implementation & Prototype
+
+![ESP32 Hardware Circuit](docs/images/esp32_hardware_circuit.jpg)
+*Figure 1: ESP32 Gateway wired directly to the 433 MHz RF remote transmitter PCB using the Open-Drain direct-wire trick (GPIO 25 & GND).*
+
+![RF Receiver Tag Prototype](docs/images/rf_receiver_tag.jpg)
+*Figure 2: Physical Receiver Tag with rechargeable LiPo battery, 433 MHz receiver board, power switch, and high-decibel piezo buzzer.*
+
+![Mobile App Controller](docs/images/mobile_app_ui.jpg)
+*Figure 3: Flutter Mobile Application running the 1-Tap Finder Screen with dynamic hotspot IP detection.*
+
+---
+
 ## ⚡ Circuit Wiring & Connections
 
 ### 1. ESP32 to 433 MHz RF Remote Button

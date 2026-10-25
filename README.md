@@ -64,6 +64,15 @@ flowchart TD
 
 ---
 
+## 📸 Implementation & Hardware Prototype
+
+| 1. Mobile App Interface | 2. ESP32 Gateway & Direct-Wire Bridge | 3. 433 MHz Receiver Tag & Buzzer |
+| :---: | :---: | :---: |
+| <img src="docs/images/mobile_app_ui.jpg" width="260" alt="Mobile App UI" /> | <img src="docs/images/esp32_hardware_circuit.jpg" width="340" alt="ESP32 Circuit" /> | <img src="docs/images/rf_receiver_tag.jpg" width="340" alt="RF Receiver Tag" /> |
+| **1-Tap Finder Screen**<br>Dynamic IP Chip & Pulsating Glow | **ESP32 Gateway Bridge**<br>Direct-Wire Interface on GPIO 25 | **Compact Tag Prototype**<br>LiPo Battery, RF IC & Piezo Buzzer |
+
+---
+
 ## 🔌 Hardware Circuit & Wiring
 
 | ESP32 Pin | RF Remote Connection | Function |
